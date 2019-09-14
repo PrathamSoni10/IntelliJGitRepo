@@ -4,6 +4,6 @@ public class LoginTest {
 
     public void loginTest() {
         System.out.println("Test class");
-        System.out.println("Test class Pratham");
+        System.out.println("Test class Pratham Soni");
     }
 }
