@@ -2,8 +2,10 @@ public class HelloWorld {
 
 public static void main(String[] args) {
 
-String str = "Hello World";
-String str = "Hello Universe";
+String str = "Hello World by Pratham";
+String str1 = "Hello Universe";
+String str2 = "Hello Galaxy";
+
 
 System.out.println(str);
 
