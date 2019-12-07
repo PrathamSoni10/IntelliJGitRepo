@@ -5,6 +5,7 @@ public static void main(String[] args) {
 String str = "Hello World by Pratham";
 String str1 = "Hello Universe";
 String str2 = "Hello Galaxy";
+String str3 = "Hello Realm";
 
 
 System.out.println(str);
